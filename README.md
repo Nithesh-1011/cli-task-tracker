@@ -2,6 +2,8 @@
 
 A simple command-line task manager written in C++ that allows users to create, update, delete, and list tasks stored in a JSON-like text file.
 
+Sample solution for the task-tracker challenge from roadmap.sh.
+
 ## Features
 - Add new tasks
 - Update task descriptions
